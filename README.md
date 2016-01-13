@@ -11,6 +11,6 @@ This project is a comilation of many different projects. When these projects are
 git clone --recursive https://github.com/MelonSmasher/swus.git
 ```
 
-## Installation and Configuration:
+## Installation and Configuration
 
 Check out the [wiki](https://github.com/MelonSmasher/swus/wiki).
