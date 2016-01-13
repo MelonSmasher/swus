@@ -1,0 +1,18 @@
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/MelonSmasher/Reposado-Margarita-Nginx.git
+[submodule "reposado"]
+	path = reposado
+	url = https://github.com/wdas/reposado.git
+[submodule "margarita"]
+	path = margarita
+	url = https://github.com/jessepeterson/margarita.git
+[submodule "initd/debian"]
+	path = initd/debian
+	url = https://github.com/MelonSmasher/margarita-debian-initd.git
+[submodule "cron"]
+	path = cron
+	url = https://github.com/MelonSmasher/reposyn-cron.git
+[submodule "initd/rhel"]
+	path = initd/rhel
+	url = https://github.com/MelonSmasher/margarita-rhel-initd.git
